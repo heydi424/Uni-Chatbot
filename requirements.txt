@@ -1,1 +1,9 @@
 echo "openai" > requirements.txt
+streamlit
+pandas
+plotly
+pillow
+openpyxl
+pandasai
+openai
+
